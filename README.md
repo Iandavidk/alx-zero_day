@@ -1,5 +1,5 @@
 ## GIT
-General\n
+General
 What is source code management
 What is Git
 What is GitHub
